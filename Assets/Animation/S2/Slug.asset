@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Slug
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 6c38dfd7970ac4270aa8ba1f5d845cd0, type: 3}
+  - {fileID: 21300000, guid: 132f3047e7446419d96cca56122068b2, type: 3}
+  - {fileID: 21300000, guid: bd232118c7523486fb113f71be454a7f, type: 3}
+  - {fileID: 21300000, guid: 5ebd3bd85388545a5818fd8587c988a8, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0
