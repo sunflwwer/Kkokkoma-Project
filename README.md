@@ -1,17 +1,37 @@
 # Into the Memories
 
-판도라큐브 꼬꼬마 프로젝트에서 제작한 **중세 판타지 배경의 2D 파쿠르 게임**입니다.
+판도라큐브 꼬꼬마 프로젝트에서 제작한 **중세 판타지 배경의 2D 파쿠르 PC 게임**입니다. 🗡️
 
 ## 🎯 프로젝트 소개
 
-플레이어는 기억을 잃은 용사가 되어 다양한 스테이지를 통과하고, 과거의 기억을 되찾아가는 여정을 경험합니다.
+마왕 토벌 이후의 평화로운 중세 판타지 세계관을 배경으로, 기억을 잃은 용사가 다양한 스테이지를 통과하며 과거의 기억을 하나씩 되찾아가는 여정을 담은 3인칭 사이드뷰 파쿠르 게임입니다.
+
+* **장르 / 플랫폼**: 2D 파쿠르 (3인칭 사이드뷰) / PC (싱글 플레이어)
+* **팀원 구성**: 총 4명 (Programmer 1명, Designer 1명, Artist 2명)
+* **진행 방식**:
+  * GitHub Desktop을 활용한 코드 및 리소스 버전 관리
+  * 주 1회 Discord 비대면 회의 진행 (회의록 및 진행 상황은 Notion에 기록)
 
 ## 👩🏻‍💻 담당 역할
 
-프로그래밍 담당으로 참여하여 Unity 기반의 게임 시스템과 스테이지 기능을 구현했습니다.
+**프로그래밍 파트 전체를 1인 전담**하여 Unity 기반의 게임 시스템 및 스테이지 동작 로직 전반을 개발했습니다.
+
+* **게임 메커니즘 구현**: 플레이어 파쿠르 이동, 점프/장애물 상호작용 및 스테이지 진행 로직 개발
+* **시스템 & UI 구축**: 스테이지별 흐름 제어, UI/UX 연동 및 카메라 시점 제어
+
+## 🖥️ 사용 기술
+
+- **Engine & Language**: Unity, C#
+- **VCS**: GitHub, GitHub Desktop
+
+## 🌱 성장 경험
+
+- **Unity 엔진 기반 단기 몰입 개발 경험**: 2달이라는 기간 동안 Unity 엔진을 집중 학습하며 게임 메커니즘 구축부터 조작감 개선까지 전 과정을 직접 구현해보는 계기가 되었습니다.
+- **코드 구조화와 문제 해결 능력의 필요성 체득**: 개발 및 플레이 과정에서 발생하는 버그들을 마주하며, 사전 설계와 예외 처리가 얼마나 중요한지 깨닫고 지속해서 코드를 개선하는 자세를 배웠습니다.
+- **다직군 협업 및 커뮤니케이션 능력 향상**: 기획자 및 아티스트 팀원들과 지속해서 소통하고 피드백을 주고받으며 타 직군과의 원활한 협업 방식을 익혔습니다.
 
 ## 🔗 참고 링크
 
-- [프로젝트 노션](https://dune-handspring-676.notion.site/Into-the-Memories-1814ceab4f828119af92cd5bacb720c8)
 - [GitHub](https://github.com/sunflwwer/Kkokkoma-Project)
-- [빌드 파일](https://drive.google.com/file/d/1FxhkA3Xm-VMIt6q-9GnAoIVrHiYhFAFt/view)
+- [프로젝트 노션](https://app.notion.com/p/Into-the-Memories-1814ceab4f828119af92cd5bacb720c8?source=copy_link)
+- [빌드 파일 다운로드](https://drive.google.com/file/d/1FxhkA3Xm-VMIt6q-9GnAoIVrHiYhFAFt/view)
